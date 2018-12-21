@@ -1,4 +1,5 @@
 
+
 all : boot.iso
 
 prepared_iso/boot/loader.sys : boot.asm 
